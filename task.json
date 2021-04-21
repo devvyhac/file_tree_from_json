@@ -1,0 +1,31 @@
+[
+  {
+    "id": 54551,
+    "name": "usr",
+    "type": "DIRECTORY"
+  },
+  {
+    "id": 54554,
+    "name": "applications",
+    "type": "DIRECTORY",
+    "parentId": 54553
+  },
+  {
+    "id": 54555,
+    "name": "mimeinfo.cache",
+    "type": "FILE",
+    "parentId": 54554
+  },
+  {
+    "id": 54553,
+    "name": "share",
+    "type": "DIRECTORY",
+    "parentId": 54552
+  },
+  {
+    "id": 54552,
+    "name": "local",
+    "type": "DIRECTORY",
+    "parentId": 54551
+  }
+]
